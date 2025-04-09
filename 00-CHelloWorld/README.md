@@ -34,5 +34,10 @@ int main(void) {
 
     return 0;
 }
-
+```
+### D. Redirección de hello world. 
+Para redirrecionar Hello world se utilizo el siguiente comando: 
+```bash
+./Hello > output.txt 
+```
 
